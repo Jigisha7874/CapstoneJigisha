@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CapstoneJigisha/static/css/main.2478c13d.css",
+    "main.js": "/CapstoneJigisha/static/js/main.d33fb4d5.js",
+    "index.html": "/CapstoneJigisha/index.html",
+    "main.2478c13d.css.map": "/CapstoneJigisha/static/css/main.2478c13d.css.map",
+    "main.d33fb4d5.js.map": "/CapstoneJigisha/static/js/main.d33fb4d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2478c13d.css",
+    "static/js/main.d33fb4d5.js"
+  ]
+}
