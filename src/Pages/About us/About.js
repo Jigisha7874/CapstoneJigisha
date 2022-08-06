@@ -27,16 +27,16 @@ const About = () => {
                     sit back, grab your popcorn and join in the conversation!
                 </p>
 
-                <p>
-                    We will continue to bring not only current reviews of films from major
-                    studios, but one of the most comprehensive coverage of reviews from
-                    independent and documentary film makers, as well as reviews of leading
-                    television or cable series and shows from various streaming platforms.
-                    you will find more user-friendly features, faster loading with
-                    improved search engine optimization, a Collections section of movies
-                    by genre, cleaner more aesthetically pleasing graphics, and many other
-                    delights. So sit back, grab your popcorn and join in the conversation!
-                </p>
+//                 <p>
+//                     We will continue to bring not only current reviews of films from major
+//                     studios, but one of the most comprehensive coverage of reviews from
+//                     independent and documentary film makers, as well as reviews of leading
+//                     television or cable series and shows from various streaming platforms.
+//                     you will find more user-friendly features, faster loading with
+//                     improved search engine optimization, a Collections section of movies
+//                     by genre, cleaner more aesthetically pleasing graphics, and many other
+//                     delights. So sit back, grab your popcorn and join in the conversation!
+//                 </p>
                 <br />
 
                 <h3>Contact Us</h3>
